@@ -4,3 +4,9 @@ session.cookie
 .mypy_cache
 .venv
 .vscode
+/details.json
+/devices.json
+/eeros.json
+/info.json
+/account.json
+/reservations.json
